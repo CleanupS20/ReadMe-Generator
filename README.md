@@ -7,20 +7,19 @@
     This console application will create a high quality README file by taking inputs from prompts from the console. 
   
   ## Table of Contents
-  * [Description](#description)
-  * [Table of Contents](#Table of Contents.)
-  * [Visuals](#Visuals)
-  * [Site](#Site)
-  * [Installation](#Installation) 
-  * [Usage](#Usage) 
-  * [License](#License) 
-  * [Credits](#Credits)
-  * [Testing](#Testing) 
-  * [Questions](#Questions)
+- [ReadMe Generator](#readme-generator)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Visuals](#visuals)
+  - [Site](#site)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Credits](#credits)
+  - [Testing](#testing)
+  - [Questions](#questions)
   
   ## Visuals
-
-  ## Site
 
   ## Installation
     Clone this repository, navigate into it using the console. Technology used: Node.js
@@ -45,3 +44,4 @@
     Github profile link: https://github.com/CleanupS20
     Email: test@email.com
       
+
