@@ -1,7 +1,7 @@
 
   
   # ReadMe Generator
-  
+
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
@@ -23,7 +23,7 @@
 
   ## Visuals
 
-  [label](https://github.com/CleanupS20/ReadMe-Generator/blob/main/assets/images/Video%20sample.webm)
+  [Video Demo](https://github.com/CleanupS20/ReadMe-Generator/blob/main/assets/images/Video%20sample.webm)
 
   ## Installation
 
