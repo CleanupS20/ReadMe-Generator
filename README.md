@@ -1,0 +1,47 @@
+
+  
+  # ReadMe Generator
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  
+  ## Description
+    This console application will create a high quality README file by taking inputs from prompts from the console. 
+  
+  ## Table of Contents
+  * [Description](#description)
+  * [Table of Contents](#Table of Contents.)
+  * [Visuals](#Visuals)
+  * [Site](#Site)
+  * [Installation](#Installation) 
+  * [Usage](#Usage) 
+  * [License](#License) 
+  * [Credits](#Credits)
+  * [Testing](#Testing) 
+  * [Questions](#Questions)
+  
+  ## Visuals
+
+  ## Site
+
+  ## Installation
+    Clone this repository, navigate into it using the console. Technology used: Node.js
+  ## Usage
+
+    To execute, navigate into this repository and run "node index.js"
+  
+  ## License
+  MIT License
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/https://img.shields.io/badge/License-MIT-blue.svg)
+  
+  ## Credits
+
+  N/A
+
+  ## Testing
+    Tested all use cases and edge cases and runs as expected.
+
+  ## Questions
+    If you have any questions about the project please feel free to contact me.
+    Github Username: CleanupS20
+    Github profile link: https://github.com/CleanupS20
+    Email: test@email.com
+      
