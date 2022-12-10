@@ -23,7 +23,7 @@
 
   ## Visuals
 
-  [Video Demo](https://github.com/CleanupS20/ReadMe-Generator/blob/main/assets/images/Video%20sample.webm)
+  [Video Demo]https://drive.google.com/file/d/1GBNHtdnt6aKBHr7gjW-XOFJTRLExCh9B/view?usp=share_link
 
   ## Installation
 
